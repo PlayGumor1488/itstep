@@ -1,5 +1,5 @@
 class Student:
-    numor = 0
+    number = 0
     print("Hellow world")
     def __init__(self, height = 164):
         self.height = height
@@ -20,6 +20,6 @@ while Mark.height < 180:
 print("My height = ", Artem.height)
 print("My height = ", Mark.height)
 
-print("number of students =", Student.number)
+print("number of students    =", Student.number)
 
 print(Artem)
